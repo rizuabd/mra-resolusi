@@ -4,3 +4,4 @@ MRA RESOLUSI
 -Ip 4
 -Fasttrack
 -Ielts
+-Dapet beasiswa
